@@ -1,0 +1,5 @@
+[
+    {"flow_rate": 100, "water_temp": 20, "water_level": 5},
+    {"flow_rate": 105, "water_temp": 25, "water_level": 5.5},
+    {"flow_rate": 110, "water_temp": 26, "water_level": 6}
+]
